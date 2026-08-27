@@ -17,7 +17,7 @@ const categoryMeta = {
   },
   "gen-ai": {
     label: "Gen AI (Generative AI)",
-    folder: "Gen AI",
+    folder: "Gen-AI",
     fileCount: 5,
     tech: ["LangChain", "OpenAI API", "RAG", "React", "Pinecone", "Python"],
     names: ["Creative Agent Studio", "Prompt Synthesis Lab", "Synthetic Design Forge", "Multi-Modal Copilot", "Knowledge Graph Composer"],
