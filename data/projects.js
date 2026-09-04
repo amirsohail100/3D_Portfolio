@@ -4,7 +4,7 @@ const categoryMeta = {
     folder: "ML",
     fileCount: 10,
     tech: ["Python", "Scikit-Learn", "XGBoost", "FastAPI", "TensorBoard", "Pandas"],
-    names: ["AI Fake News Detector", "AI vs Human Text Detection", "EduRoute AI", "Telehealth AI", "Medical Pattern Atlas", "Demand Intelligence Grid", "Fraud Detection Lens", "Behavioral Recommender Core", "Computer Vision QA Lab", "Insight Flow Platform"],
+    names: ["AI Fake News Detector", "AI vs Human Text Detection", "EduRoute AI", "Telehealth AI", "Bank Telemarketing Success Prediction", "SMS Spam Detection", "Fraud Detection Lens", "Behavioral Recommender Core", "Computer Vision QA Lab", "Insight Flow Platform"],
     stats: ["99.4% accuracy", "2.8x faster decisions", "Zero-downtime retraining", "94.7% uplift"],
   },
   dl: {
@@ -12,7 +12,7 @@ const categoryMeta = {
     folder: "DL",
     fileCount: 6,
     tech: ["PyTorch", "TensorFlow", "CUDA", "ONNX", "OpenCV", "NVIDIA"],
-    names: ["Neural Vision Suite", "Adaptive Image Core", "Video Segmentation Engine", "Depth Estimation Lab", "Speech Pattern Resolver", "Generative Signal Forge"],
+    names: ["AI Fake News Detector", "AI vs Human Text Detection", "EduRoute AI", "Depth Estimation Lab", "Speech Pattern Resolver", "Generative Signal Forge"],
     stats: ["60 FPS inference", "70 ms latency", "4K vision pipeline", "98.2% precision"],
   },
   "gen-ai": {
