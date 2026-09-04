@@ -4,7 +4,7 @@ const categoryMeta = {
     folder: "ML",
     fileCount: 10,
     tech: ["Python", "Scikit-Learn", "XGBoost", "FastAPI", "TensorBoard", "Pandas"],
-    names: ["Rainfall Prediction System", "Flipkart Product Sentiment & Rating Predictor", "New York City Airbnb ML Analytics Web App", "Telehealth AI", "Mental Health Signal", "SMS Spam Detection", "Fraud Detection Lens", "Behavioral Recommender Core", "Computer Vision QA Lab", "Insight Flow Platform"],
+    names: ["Rainfall Prediction System", "Flipkart Product Sentiment & Rating Predictor", "New York City Airbnb ML Analytics Web App", "Telehealth AI", "Mental Health Signal", "SMS Spam Detection", "Market & Economic Predictor App", "Stroke Prediction System", "Air Passengers Prediction System", "Insight Flow Platform"],
     stats: ["99.4% accuracy", "2.8x faster decisions", "Zero-downtime retraining", "94.7% uplift"],
   },
   dl: {
