@@ -12,7 +12,7 @@ const categoryMeta = {
     folder: "DL",
     fileCount: 6,
     tech: ["PyTorch", "TensorFlow", "CUDA", "ONNX", "OpenCV", "NVIDIA"],
-    names: ["AI Fake News Detector", "AI vs Human Text Detection", "EduRoute AI", "Depth Estimation Lab", "Speech Pattern Resolver", "Generative Signal Forge"],
+    names: ["AI Fake News Detector", "AI vs Human Text Detection", "EduRoute AI", "Depth Estimation Lab", "Bank Telemarketing Success Prediction", "SMS Spam Detection"],
     stats: ["60 FPS inference", "70 ms latency", "4K vision pipeline", "98.2% precision"],
   },
   "gen-ai": {
