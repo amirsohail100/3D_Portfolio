@@ -4,7 +4,7 @@ const categoryMeta = {
     folder: "ML",
     fileCount: 10,
     tech: ["Python", "Scikit-Learn", "XGBoost", "FastAPI", "TensorBoard", "Pandas"],
-    names: ["AI Fake News Detector", "Signal Forecast Studio", "Automation Risk Engine", "Customer Lifetime Optimizer", "Medical Pattern Atlas", "Demand Intelligence Grid", "Fraud Detection Lens", "Behavioral Recommender Core", "Computer Vision QA Lab", "Insight Flow Platform"],
+    names: ["AI Fake News Detector", "AI vs Human Text Detection", "EduRoute AI", "Telehealth AI", "Medical Pattern Atlas", "Demand Intelligence Grid", "Fraud Detection Lens", "Behavioral Recommender Core", "Computer Vision QA Lab", "Insight Flow Platform"],
     stats: ["99.4% accuracy", "2.8x faster decisions", "Zero-downtime retraining", "94.7% uplift"],
   },
   dl: {
