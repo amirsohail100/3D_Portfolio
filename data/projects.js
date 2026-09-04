@@ -20,7 +20,7 @@ const categoryMeta = {
     folder: "Gen-AI",
     fileCount: 5,
     tech: ["LangChain", "OpenAI API", "RAG", "React", "Pinecone", "Python"],
-    names: ["Tweetify AI", "PersonaChat VIP Studio", "LexiLearn AI", "Multi-Modal Copilot", "Knowledge Graph Composer"],
+    names: ["Tweetify AI", "PersonaChat VIP Studio", "LexiLearn AI", "DevSphere AI", "QuizGenie AI"],
     stats: ["2.1x creative output", "Adaptive prompt loops", "Multimodal synthesis", "Rapid ideation"],
   },
   web: {
