@@ -28,7 +28,7 @@ const categoryMeta = {
     folder: "WED",
     fileCount: 16,
     tech: ["Next.js", "Three.js", "React", "GSAP", "Tailwind CSS", "Framer Motion"],
-    names: ["TIC TAC TOE", "Todo List App", "Immersive SaaS Dashboard", "ROCK PAPER SCISSORS", "TaskFlow", "Memory Game", "Expensive Management", "Future Interface Studio", "Currency Converter", "Catch the Square!", "Calculator App", "CodeFlow Live", "Immersive Leaderboard", "Storytelling Commerce Suite", "Amazon clone", "Next-Gen Product Launch"],
+    names: ["TIC TAC TOE", "Todo List App", "Immersive SaaS Dashboard", "ROCK PAPER SCISSORS", "TaskFlow", "Memory Game", "Expensive Management", "Future Interface Studio", "Currency Converter", "Catch the Square!", "Calculator App", "CodeFlow Live", "Immersive Leaderboard", "Storytelling Commerce Suite", "Amazon clone", "Flipkart clone"],
     stats: ["60 FPS UI", "Awwwards-ready", "Production UX", "Realtime performance"],
   },
 };
