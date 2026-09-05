@@ -28,7 +28,7 @@ const categoryMeta = {
     folder: "WED",
     fileCount: 16,
     tech: ["Next.js", "Three.js", "React", "GSAP", "Tailwind CSS", "Framer Motion"],
-    names: ["TIC TAC TOE", "Todo List App", "Immersive SaaS Dashboard", "ROCK PAPER SCISSORS", "Cinematic Brand Platform", "Experience Commerce Layer", "Realtime Product Storyboard", "Future Interface Studio", "Interactive Launch System", "Glassmorphism Command Center", "Virtual Product Showcase", "Design System Playground", "Immersive Leaderboard", "Storytelling Commerce Suite", "Interactive Journey Engine", "Next-Gen Product Launch"],
+    names: ["TIC TAC TOE", "Todo List App", "Immersive SaaS Dashboard", "ROCK PAPER SCISSORS", "TaskFlow", "Experience Commerce Layer", "Realtime Product Storyboard", "Future Interface Studio", "Interactive Launch System", "Glassmorphism Command Center", "Virtual Product Showcase", "Design System Playground", "Immersive Leaderboard", "Storytelling Commerce Suite", "Interactive Journey Engine", "Next-Gen Product Launch"],
     stats: ["60 FPS UI", "Awwwards-ready", "Production UX", "Realtime performance"],
   },
 };
